@@ -160,7 +160,7 @@
 
 ---
 
-### 📦 INVENTRCK — Inventory & Expiry Tracking System
+### 📦 INVENTRACK — Inventory & Expiry Tracking System
 
 <table>
   <tr>
@@ -180,7 +180,7 @@
       <sub>🔧 <b>In Active Development</b></sub>
     </td>
     <td width="60%" valign="top">
-      <img src="./assets/inventrck.png" alt="INVENTRCK Preview" width="100%"/>
+      <img src="./assets/inventrck.png" alt="INVENTRACK Preview" width="100%"/>
     </td>
   </tr>
 </table>
