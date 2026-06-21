@@ -92,7 +92,7 @@
 
 ### 📚 ScholarDesk — Academic Productivity Dashboard
 
-<img src="./assets/scholardesk.png" alt="ScholarDesk Preview" width="100%"/>
+<a href="https://scholardesk.pythonanywhere.com"><img src="./assets/scholardesk.png" alt="ScholarDesk Preview" width="100%"/></a>
 
 Scholar Desk is a comprehensive, production-grade cloud ecosystem designed to serve as a unified academic command center for engineering students. Built using an enterprise monolithic architecture, it consolidates disparate student utilities into a seamless, high-contrast digital workspace.
 Students currently waste cognitive energy jumping between fragmented, isolated applications (notepads, calendar apps, expense managers, and AI tabs). Scholar Desk completely resolves this fragmentation. * It centralizes data streams into a single environment.
@@ -108,7 +108,7 @@ Students currently waste cognitive energy jumping between fragmented, isolated a
 
 ### 🗺️ Safarnama — AI-Powered Travel Planner
 
-<img src="./assets/safarnama.png" alt="Safarnama Preview" width="100%"/>
+<a href="https://safarnama.streamlit.app"><img src="./assets/safarnama.png" alt="Safarnama Preview" width="100%"/></a>
 
 Safarnama is an intelligent, full-stack travel planning web application built using Streamlit, integrated with Google's Gemini 2.5 Flash API and geodetic positioning automation. It moves away from rigid, cookie-cutter tourism packages, allowing users to build dynamically calculated, completely customized itineraries with a built-in AI concierge.
 
@@ -123,7 +123,7 @@ Safarnama is an intelligent, full-stack travel planning web application built us
 
 ### 🌿 Crop Suraksha — AI Plant Disease Detector
 
-<img src="./assets/cropsuraksha.png" alt="Crop Suraksha Preview" width="100%"/>
+<a href="https://cropsuraksha.streamlit.app"><img src="./assets/cropsuraksha.png" alt="Crop Suraksha Preview" width="100%"/></a>
 
 The AI-Based Crop Disease Detection System is a mobile and web platform designed to analyze leaf images and instantly identify agricultural pathogens. Built under the team name Bug Hunters, the system serves as an automated digital plant pathologist for farmers.
 Traditional disease identification requires manual expert inspection, which takes time and leads to severe crop loss. This system provides an instant, real-time diagnosis.
@@ -139,7 +139,7 @@ Traditional disease identification requires manual expert inspection, which take
 
 ### 📦 INVENTRACK — Inventory & Expiry Tracking System
 
-<img src="./assets/inventrck.png" alt="INVENTRACK Preview" width="100%"/>
+<a href="https://github.com/engineermayur-07/Inventory-Management-And-Expiry-Tracking"><img src="./assets/inventrck.png" alt="INVENTRACK Preview" width="100%"/></a>
 
 A high-performance full-stack web application designed for businesses handling perishable goods (e.g., pharmacies, cloud kitchens) to optimize stock rotation and eliminate waste.
 
