@@ -3,8 +3,8 @@
 <a href="https://github.com/engineermayur-07"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12&height=200&section=header&text=Mayur%20B.%20Gund&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%E2%80%A2%20Flask%20%E2%80%A2%20Full-Stack%20Developer&descSize=17&descAlignY=58&descColor=caf0f8" width="100%"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=900&color=2C7DA0&center=true&vCenter=true&width=1000&height=50&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Mayur+B.+Gund!;%F0%9F%8E%93+B.Tech+CSE+%40+Sanjivani+College+of+Engg.;%F0%9F%90%8D+Python+%26+Flask+Developer;%F0%9F%9A%80+Building+Real-World%2C+Deployed+Apps;%F0%9F%8C%B1+Always+Learning+%E2%80%94+Always+Shipping" alt="Typing SVG" />
-
 <br/>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mgund1920)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engineermayur-07)
