@@ -174,7 +174,7 @@ Instead of relying on heavy database sorting queries, this system utilizes an in
 <br/>
 
 <div align="center">
-  <a href="https://github.com/engineermayur-07"><img src="https://github-readme-activity-graph.vercel.app/graph?username=engineermayur-07&theme=tokyo-night&hide_border=true&area=true" width="95%"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engineermayur-07&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 <br/><br/>
@@ -194,7 +194,7 @@ Instead of relying on heavy database sorting queries, this system utilizes an in
 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- ============================= CONNECT ============================= -->
  
