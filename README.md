@@ -219,6 +219,6 @@ Instead of relying on heavy database sorting queries, this system utilizes an in
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12&height=120&section=footer" width="100%"/>
 
-<sub>⭐ From <a href="https://github.com/engineermayur-07">engineermayur-07</a> — Built with 💙 and endless cups of chai ☕</sub>
+<sub>⭐ From <a href="https://github.com/engineermayur-07">engineermayur-07</a> — Built with ❣️❣️ and endless cups of chai ☕</sub>
 
 </div>
