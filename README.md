@@ -2,7 +2,7 @@
 
 <a href="https://github.com/engineermayur-07"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12&height=200&section=header&text=Mayur%20B.%20Gund&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%E2%80%A2%20Flask%20%E2%80%A2%20Full-Stack%20Developer&descSize=17&descAlignY=58&descColor=caf0f8" width="100%"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=900&color=2C7DA0&center=true&vCenter=true&width=1000&height=50&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Mayur+B.+Gund!;%F0%9F%8E%93+B.Tech+CSE+%40+Sanjivani+College+of+Engg.;%F0%9F%90%8D+Python+%26+Flask+Developer;%F0%9F%9A%80+Building+Real-World%2C+Deployed+Apps;%F0%9F%8C%B1+Always+Learning+%E2%80%94+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=900&color=2C7DA0&center=true&vCenter=true&width=1000&height=50&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Mayur+B.+Gund!;%F0%9F%8E%93+B.Tech+CSE+%40+Sanjivani+College+of+Engg.;%F0%9F%90%8D+Python+%26+Flask+Developer;%F0%9F%9A%80+Building+Real-World%2C+Deployed+Apps;%F0%9F%8C%B1+Always+Learning+%E2%80%94+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -181,7 +181,7 @@ Instead of relying on heavy database sorting queries, this system utilizes an in
 
 <!-- ============================= BLOG ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=100&section=header&text=From%20My%20Blog&fontSize=80&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=100&section=header&text=Let's%20Connect&fontSize=80&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
 
 <br/>
@@ -197,11 +197,7 @@ Instead of relying on heavy database sorting queries, this system utilizes an in
 <br/><br/>
 
 <!-- ============================= CONNECT ============================= -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=100&section=header&text=Let's%20Connect&fontSize=80&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
-</div>
-
-<br/>
+ 
 
 <div align="center">
 
