@@ -20,7 +20,7 @@
 
 <!-- ============================= ABOUT ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=100&section=header&text=About%20Me&fontSize=58&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=120&section=header&text=About%20Me&fontSize=80&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
 
 <br/>
