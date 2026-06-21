@@ -94,7 +94,8 @@
 
 <img src="./assets/scholardesk.png" alt="ScholarDesk Preview" width="100%"/>
 
-Organize your academic life in one workspace — manage lecture notes, track attendance, monitor course deadlines, and compute SGPA all in one place.
+Scholar Desk is a comprehensive, production-grade cloud ecosystem designed to serve as a unified academic command center for engineering students. Built using an enterprise monolithic architecture, it consolidates disparate student utilities into a seamless, high-contrast digital workspace.
+Students currently waste cognitive energy jumping between fragmented, isolated applications (notepads, calendar apps, expense managers, and AI tabs). Scholar Desk completely resolves this fragmentation. * It centralizes data streams into a single environment.
 
 <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
@@ -109,7 +110,7 @@ Organize your academic life in one workspace — manage lecture notes, track att
 
 <img src="./assets/safarnama.png" alt="Safarnama Preview" width="100%"/>
 
-Enter your city, pick a destination, and instantly get transport cost estimates, hotel picks, food spots, and a full AI-generated trip itinerary.
+Safarnama is an intelligent, full-stack travel planning web application built using Streamlit, integrated with Google's Gemini 2.5 Flash API and geodetic positioning automation. It moves away from rigid, cookie-cutter tourism packages, allowing users to build dynamically calculated, completely customized itineraries with a built-in AI concierge.
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
 
@@ -124,7 +125,8 @@ Enter your city, pick a destination, and instantly get transport cost estimates,
 
 <img src="./assets/cropsuraksha.png" alt="Crop Suraksha Preview" width="100%"/>
 
-Upload a leaf photo and receive an instant AI-powered crop health diagnosis with multilingual support — built to empower Indian farmers.
+The AI-Based Crop Disease Detection System is a mobile and web platform designed to analyze leaf images and instantly identify agricultural pathogens. Built under the team name Bug Hunters, the system serves as an automated digital plant pathologist for farmers.
+Traditional disease identification requires manual expert inspection, which takes time and leads to severe crop loss. This system provides an instant, real-time diagnosis.
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plant.id%20API-2E7D32?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
@@ -139,7 +141,9 @@ Upload a leaf photo and receive an instant AI-powered crop health diagnosis with
 
 <img src="./assets/inventrck.png" alt="INVENTRACK Preview" width="100%"/>
 
-Precision inventory management with real-time batch tracking, 30-day expiry alerts, and smart FIFO selling — built for businesses that can't afford errors.
+A high-performance full-stack web application designed for businesses handling perishable goods (e.g., pharmacies, cloud kitchens) to optimize stock rotation and eliminate waste.
+
+Instead of relying on heavy database sorting queries, this system utilizes an in-memory Min-Heap cache to track expiration dates with maximum efficiency
 
 <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
