@@ -20,7 +20,7 @@
 
 <!-- ============================= ABOUT ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 
 <!-- ============================= TECH STACK ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=Tech%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
 
 <br/>
@@ -85,7 +85,7 @@
 
 <!-- ============================= PROJECTS ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=Featured%20Projects&fontSize=26&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=Featured%20Projects&fontSize=32&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
 
 <br/>
@@ -155,7 +155,7 @@ Instead of relying on heavy database sorting queries, this system utilizes an in
 
 <!-- ============================= GITHUB STATS ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=GitHub%20Stats&fontSize=26&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=GitHub%20Stats&fontSize=32&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
 
 <br/>
@@ -181,7 +181,7 @@ Instead of relying on heavy database sorting queries, this system utilizes an in
 
 <!-- ============================= BLOG ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=From%20My%20Blog&fontSize=26&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=From%20My%20Blog&fontSize=32&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
 
 <br/>
@@ -198,7 +198,7 @@ Instead of relying on heavy database sorting queries, this system utilizes an in
 
 <!-- ============================= CONNECT ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=Let's%20Connect&fontSize=26&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=Let's%20Connect&fontSize=32&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
 
 <br/>
