@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=210&section=header&text=Mayur%20B.%20Gund&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%E2%80%A2%20Flask%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=caf0f8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12&height=200&section=header&text=Mayur%20B.%20Gund&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%E2%80%A2%20Flask%20%E2%80%A2%20Full-Stack%20Developer&descSize=17&descAlignY=58&descColor=caf0f8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=680&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Mayur+B.+Gund!;%F0%9F%8E%93+B.Tech+CSE+%40+Sanjivani+College+of+Engg.;%F0%9F%90%8D+Python+%26+Flask+Developer;%F0%9F%9A%80+Building+Real-World%2C+Deployed+Apps;%F0%9F%8C%B1+Always+Learning+%E2%80%94+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2C7DA0&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Mayur+B.+Gund!;%F0%9F%8E%93+B.Tech+CSE+%40+Sanjivani+College+of+Engg.;%F0%9F%90%8D+Python+%26+Flask+Developer;%F0%9F%9A%80+Building+Real-World%2C+Deployed+Apps;%F0%9F%8C%B1+Always+Learning+%E2%80%94+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -12,16 +12,18 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=engineermayur-07&label=Profile+Views&color=00B4D8&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=engineermayur-07&label=Profile+Views&color=2C7DA0&style=for-the-badge)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=00B4D8" width="100%"/>
+<br/><br/>
 
 <!-- ============================= ABOUT ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,12&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
+
+<br/>
 
 - 🎓 **2nd Year B.Tech CSE** at Sanjivani College of Engineering, Kopargaon
 - 🏆 **Foundation For Excellence (FFE) Scholarship** Holder — merit earner, not just a learner
@@ -31,169 +33,128 @@
 - ✍️ I write about my tech journey, projects & growth at **[engineermayur.blogspot.com](https://engineermayur.blogspot.com)**
 - 📍 Shirdi, Maharashtra, India
 
-<br/>
+<br/><br/>
 
 <!-- ============================= TECH STACK ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,12&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65&width=1200" width="100%"/>
-</div>
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Libraries**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
 
 <br/>
 
-<!-- ============================= PROJECTS ============================= -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,12&height=70&section=header&text=Featured%20Projects&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65&width=1200" width="100%"/>
-</div>
-
-<br/>
-
-<table width="100%">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">📚 ScholarDesk</h3>
-<p align="center"><i>Academic Productivity Dashboard</i></p>
-
-<img src="./assets/scholardesk.png" alt="ScholarDesk Preview" width="100%"/>
-
-<p align="center">
-Organize lecture notes, track attendance, monitor deadlines, and compute SGPA — all in one unified campus workspace.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<td align="right"><b>Languages</b></td>
+<td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://scholardesk.pythonanywhere.com"><img src="https://img.shields.io/badge/Live%20Demo-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://github.com/engineermayur-07/ScholarDesk-Web-App"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center"><sub>👥 Built with <b>Arjun B. Kadam</b></sub></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🗺️ Safarnama</h3>
-<p align="center"><i>AI-Powered Travel Planner</i></p>
-
-<img src="./assets/safarnama.png" alt="Safarnama Preview" width="100%"/>
-
-<p align="center">
-Enter your city, pick a destination, and instantly get transport costs, hotel picks, food spots, and a full AI-generated itinerary.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://safarnama.streamlit.app"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://github.com/engineermayur-07/Travel-Planning"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center"><sub>👥 Built with <b>Rohit J. Khokale</b></sub></p>
-
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🌿 Crop Suraksha</h3>
-<p align="center"><i>AI Plant Disease Detector</i></p>
-
-<img src="./assets/cropsuraksha.png" alt="Crop Suraksha Preview" width="100%"/>
-
-<p align="center">
-Upload a leaf photo and get an instant AI-powered crop health diagnosis with multilingual support — built to empower Indian farmers. Dedicated to the Shetkari Raja. 🙏
-</p>
-
-<p align="center">
+<td align="right"><b>Frameworks</b></td>
+<td>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plant.id%20API-2E7D32?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://cropsuraksha.streamlit.app"><img src="https://img.shields.io/badge/Live%20Demo-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://github.com/engineermayur-07/Crop-Disease-Detection-"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center"><sub>👥 Built with <b>Prathamesh Hon · Abhishek Shinde · Danish Shaikh</b></sub></p>
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">📦 INVENTRACK</h3>
-<p align="center"><i>Inventory & Expiry Tracking System</i></p>
-
-<img src="./assets/inventrck.png" alt="INVENTRACK Preview" width="100%"/>
-
-<p align="center">
-Precision inventory management with real-time batch tracking, 30-day expiry alerts, and smart FIFO selling — built for businesses that can't afford errors.
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/>
+</tr>
+<tr>
+<td align="right"><b>Databases</b></td>
+<td>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/engineermayur-07/Inventory-Management-And-Expiry-Tracking"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center"><sub>🔧 <b>In Active Development</b></sub></p>
-
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
 </td>
 </tr>
 </table>
 
+<br/><br/>
+
+<!-- ============================= PROJECTS ============================= -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
+</div>
+
 <br/>
+
+### 📚 ScholarDesk — Academic Productivity Dashboard
+
+<img src="./assets/scholardesk.png" alt="ScholarDesk Preview" width="100%"/>
+
+Organize your academic life in one workspace — manage lecture notes, track attendance, monitor course deadlines, and compute SGPA all in one place.
+
+<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2C7DA0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scholardesk.pythonanywhere.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engineermayur-07/ScholarDesk-Web-App)
+
+<sub>👥 Built with <b>Arjun B. Kadam</b></sub>
+
+<br/><br/>
+
+### 🗺️ Safarnama — AI-Powered Travel Planner
+
+<img src="./assets/safarnama.png" alt="Safarnama Preview" width="100%"/>
+
+Enter your city, pick a destination, and instantly get transport cost estimates, hotel picks, food spots, and a full AI-generated trip itinerary.
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2C7DA0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://safarnama.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engineermayur-07/Travel-Planning)
+
+<sub>👥 Built with <b>Rohit J. Khokale</b></sub>
+
+<br/><br/>
+
+### 🌿 Crop Suraksha — AI Plant Disease Detector
+
+<img src="./assets/cropsuraksha.png" alt="Crop Suraksha Preview" width="100%"/>
+
+Upload a leaf photo and receive an instant AI-powered crop health diagnosis with multilingual support — built to empower Indian farmers.
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Plant.id%20API-2E7D32?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2C7DA0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cropsuraksha.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engineermayur-07/Crop-Disease-Detection-)
+
+<sub>👥 Built with <b>Prathamesh Hon · Abhishek Shinde · Danish Shaikh</b></sub>
+
+<br/><br/>
+
+### 📦 INVENTRACK — Inventory & Expiry Tracking System
+
+<img src="./assets/inventrck.png" alt="INVENTRACK Preview" width="100%"/>
+
+Precision inventory management with real-time batch tracking, 30-day expiry alerts, and smart FIFO selling — built for businesses that can't afford errors.
+
+<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engineermayur-07/Inventory-Management-And-Expiry-Tracking)
+
+<sub>🔧 <b>In Active Development</b></sub>
+
+<br/><br/>
 
 <!-- ============================= GITHUB STATS ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,12&height=70&section=header&text=GitHub%20Stats&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=GitHub%20Stats&fontSize=22&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -212,12 +173,14 @@ Precision inventory management with real-time batch tracking, 30-day expiry aler
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=engineermayur-07&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ============================= BLOG ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,12&height=70&section=header&text=From%20My%20Blog&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=From%20My%20Blog&fontSize=22&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -227,12 +190,14 @@ Precision inventory management with real-time batch tracking, 30-day expiry aler
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- ============================= CONNECT ============================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=2,3,12&height=70&section=header&text=Let's%20Connect&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65&width=1200" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=20&height=50&section=header&text=Let's%20Connect&fontSize=22&fontColor=ffffff&fontAlignY=58&width=900" width="55%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -244,11 +209,11 @@ Precision inventory management with real-time batch tracking, 30-day expiry aler
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12&height=120&section=footer" width="100%"/>
 
 <sub>⭐ From <a href="https://github.com/engineermayur-07">engineermayur-07</a> — Built with 💙 and endless cups of chai ☕</sub>
 
