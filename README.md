@@ -20,12 +20,12 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **2nd Year B.Tech CSE** at Sanjivani College of Engineering, Kopargaon
-- 🏆 **TFWS Scholarship** Holder — merit earner, not just a learner
+- 🏆 **FFE Scholarship** Holder — merit earner, not just a learner
 - 🐍 I build **real-world, fully deployed web apps** using Python & Flask
 - 🌐 From **CLI tools to production web apps** — I ship things end-to-end
 - 🤝 Networked with peers from **IITs & NITs** via FFE programs
 - ✍️ I write about my tech journey, projects & growth at **[engineermayur.blogspot.com](https://engineermayur.blogspot.com)**
-- 📍 Malegaon, Maharashtra, India
+- 📍 Shirdi, Maharashtra, India
 
 ---
 
