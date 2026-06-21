@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12&height=200&section=header&text=Mayur%20B.%20Gund&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%E2%80%A2%20Flask%20%E2%80%A2%20Full-Stack%20Developer&descSize=17&descAlignY=58&descColor=caf0f8" width="100%"/>
+<a href="https://github.com/engineermayur-07"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,12&height=200&section=header&text=Mayur%20B.%20Gund&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%E2%80%A2%20Flask%20%E2%80%A2%20Full-Stack%20Developer&descSize=17&descAlignY=58&descColor=caf0f8" width="100%"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=2C7DA0&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Mayur+B.+Gund!;%F0%9F%8E%93+B.Tech+CSE+%40+Sanjivani+College+of+Engg.;%F0%9F%90%8D+Python+%26+Flask+Developer;%F0%9F%9A%80+Building+Real-World%2C+Deployed+Apps;%F0%9F%8C%B1+Always+Learning+%E2%80%94+Always+Shipping" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=engineermayur-07&label=Profile+Views&color=2C7DA0&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=engineermayur-07&label=Profile+Views&color=2C7DA0&style=for-the-badge)](https://github.com/engineermayur-07)
 
 </div>
 
@@ -46,37 +46,37 @@
 <tr>
 <td align="right"><b>Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 </td>
 </tr>
 <tr>
 <td align="right"><b>Frameworks</b></td>
 <td>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
 <td align="right"><b>Databases</b></td>
 <td>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
 <td align="right"><b>Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white"/></a>
+<a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white"/></a>
+<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/></a>
 </td>
 </tr>
 </table>
@@ -162,19 +162,19 @@ Instead of relying on heavy database sorting queries, this system utilizes an in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=engineermayur-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=engineermayur-07&theme=tokyonight&hide_border=true" width="49%"/>
+<a href="https://github.com/engineermayur-07"><img src="https://github-readme-stats.vercel.app/api?username=engineermayur-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/></a>
+<a href="https://github.com/engineermayur-07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=engineermayur-07&theme=tokyonight&hide_border=true" width="49%"/></a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineermayur-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/>
+<a href="https://github.com/engineermayur-07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineermayur-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engineermayur-07&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <a href="https://github.com/engineermayur-07"><img src="https://github-readme-activity-graph.vercel.app/graph?username=engineermayur-07&theme=tokyo-night&hide_border=true&area=true" width="95%"/></a>
 </div>
 
 <br/><br/>
