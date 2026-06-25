@@ -139,7 +139,7 @@ Traditional disease identification requires manual expert inspection, which take
 
 ### 📦 INVENTRACK — Inventory & Expiry Tracking System
 
-<a href="https://github.com/engineermayur-07/Inventory-Management-And-Expiry-Tracking"><img src="./assets/inventrck.png" alt="INVENTRACK Preview" width="100%"/></a>
+<a href="https://github.com/engineermayur-07/Inventory-Management-And-Expiry-Tracking"><img src="./assets/inventrack.png" alt="INVENTRACK Preview" width="100%"/></a>
 
 A high-performance full-stack web application designed for businesses handling perishable goods (e.g., pharmacies, cloud kitchens) to optimize stock rotation and eliminate waste.
 
