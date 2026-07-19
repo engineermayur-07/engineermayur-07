@@ -181,7 +181,7 @@ A high-performance full-stack web application for businesses handling perishable
 <a href="https://github.com/engineermayur-07/Inventory-Management-And-Expiry-Tracking"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><sub>🔧 <b>In Active Development</b></sub></p>
+ 
 
 <br/>
 
